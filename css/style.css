@@ -80,7 +80,7 @@ footer {
 
 /*/// MEDIA ///*/
 
-img, video, audio {
+img {
 	max-width: 100%;
 	border-color: rgb(255, 0, 0);
 	border: normal;
