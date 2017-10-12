@@ -39,7 +39,7 @@ header h1 {
 	border-bottom: 1px solid #ccc;
 }
 
-header img {
+#featured img {
 	max-width: 100%;
 	border: 5px rgb(152,	173,	166) solid;
 }
