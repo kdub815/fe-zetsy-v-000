@@ -25,7 +25,7 @@ body {
 /* Write all remaining styles here */
 
 header {
-	position: sticky;
+	position: relative;;
 	background: #fff;
 	z-index: 1;
 }
