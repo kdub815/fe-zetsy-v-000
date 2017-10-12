@@ -54,13 +54,14 @@ p {
 	font-size: 1em;
 }
 
+footer {
+	text-align: right;
+}
+
 .small {
 	color: rgb(85,	85,	85);
 	font-size: 0.8em;
 }
-/*/// SECTION STYLES ///*/
-
-
 
 #featured {
 
@@ -70,9 +71,7 @@ p {
 
 }
 
-footer {
-	text-align: right;
-}
+
 
 /*/// LAYOUT ///*/
 
