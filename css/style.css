@@ -30,7 +30,7 @@ header {
 	z-index: 1;
 }
 
-header a {
+header h1 {
 	font-family: 'Baskerville', cursive;
 	color: rgb(152,	173,	166);
 	font-size: 5em;
