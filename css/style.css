@@ -24,6 +24,7 @@ body {
 
 /* Write all remaining styles here */
 
+/* Header Section */
 
 h1 {
 	font-family: 'Baskerville', cursive;
@@ -32,6 +33,7 @@ h1 {
 	border-bottom: 1px solid #ccc;
 	margin-bottom: 5px;
 }
+
 header a {
 	color: rgb(152,	173,	166);
 	text-decoration: none;
@@ -40,6 +42,8 @@ header a {
 header a:hover {
 	color: rgb(111,	127,	122);
 }
+
+/* About Section */
 
 h2 {
 	color: rgb(111,	127,	122);
@@ -61,6 +65,8 @@ p {
 	text-decoration: none;
 }
 
+/* Press Section */
+
 #press {
 	margin-bottom: 20px;
 }
@@ -74,6 +80,8 @@ p {
 	border: 5px rgb(111,	127,	122) solid;
 	padding: 1px;
 }
+
+/* Footer Section */
 
 footer {
 	text-align: right;
