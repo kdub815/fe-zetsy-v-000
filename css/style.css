@@ -66,6 +66,7 @@ p {
 footer {
 	text-align: right;
 	clear: both;
+	text-decoration: none;
 }
 
 .small {
