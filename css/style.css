@@ -82,6 +82,7 @@ footer {
 
 img {
 	max-width: 100%;
+	border: 1px;
 	border-color: rgb(255, 0, 0);
-	border: normal;
+
 }
