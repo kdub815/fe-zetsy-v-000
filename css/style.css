@@ -48,7 +48,7 @@ p {
 /*/// SECTION STYLES ///*/
 
 header {
-	position: absolute;
+	position: relative;
 	left: 45px;
 	padding: 0px 0px;
 	background: #fff;
@@ -82,4 +82,5 @@ footer {
 
 img, video, audio {
 	max-width: 100%;
+	border:
 }
