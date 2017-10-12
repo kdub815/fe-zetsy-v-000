@@ -82,6 +82,5 @@ footer {
 
 img {
 	max-width: 100%;
-	border: 2px;
-	border-color: rgb(255, 0, 0);
+	border: 2px rgb(255, 0, 0) solid;
 }
