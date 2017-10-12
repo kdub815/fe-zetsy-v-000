@@ -78,27 +78,3 @@ footer {
 	color: rgb(85,	85,	85);
 	font-size: 0.8em;
 }
-/*/// SECTION STYLES ///*/
-
-
-
-#featured {
-
-}
-
-#press {
-
-}
-
-
-
-/*/// LAYOUT ///*/
-
-.clear-fix:after {
-	content: ".";
-	display: block;
-	clear: both;
-	visibility: hidden;
-	height: 0;
-	line-height: 0;
-}
