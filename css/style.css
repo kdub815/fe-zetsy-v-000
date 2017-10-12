@@ -45,7 +45,7 @@ p {
 }
 
 .small {
-	color: ;
+	color: rgb(85,	85,	85);
 	font-size: ;
 }
 /*/// SECTION STYLES ///*/
@@ -85,5 +85,5 @@ footer {
 img {
 	max-width: 100%;
 	border: 5px rgb(152,	173,	166) solid;
-	
+
 }
