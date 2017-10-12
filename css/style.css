@@ -48,7 +48,7 @@ p {
 header {
 	position: absolute;
 	left: 45px;
-	padding: 0px 0px;
+
 	background: #fff;
 	z-index: 1;
 }
